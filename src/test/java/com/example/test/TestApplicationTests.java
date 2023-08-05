@@ -9,6 +9,7 @@ class TestApplicationTests {
     @Test
     void contextLoads() {
         //안녕하세요 태호입니다.
+        //안녕하세요 하원입니다.
     }
 
 }
