@@ -10,6 +10,7 @@ class TestApplicationTests {
     void contextLoads() {
         //안녕하세요 태호입니다.
         //안녕하세요 유미입니다.
+        //유미지롱!! 뿌슝빠슝!!~!!!
     }
 
 }
